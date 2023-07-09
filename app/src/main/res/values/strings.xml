@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tokopee</string>
+    <string name="landing_page_title">DISCOVER YOUR STYLE\nDEFINE YOUR PASSION</string>
+    <string name="landing_page_subtitle">Welcome to Tokopee! Unlock a world of endless fashion possibilities, where style meets expression.</string>
+    <string name="login">LOG IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="login_page_title">Welcome Back 👋 </string>
+    <string name="login_page_subtitle">We are so glad to see you again. Please enter your login information. Keep it secret :D</string>
+    <string name="login_page_forgot_password">Forgot password</string>
+    <string name="login_page_dont_have_account">Don\'t have an account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="signup_page_title">Create a New Account</string>
+    <string name="signup_page_subtitle">Before you go to infinity and beyond our fashion collection, please make an account.</string>
+    <string name="signup_page_already_have_an_account">Already have an account?</string>
+    <string name="purchase">PURCHASE</string>
+    <string name="back_to_main_page">BACK TO MAIN PAGE</string>
+    <string name="purchase_lower">Purchase</string>
+    <string name="total_price">Total Price</string>
+    <string name="logout">LOG OUT</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="delete_account">DELETE ACCOUNT</string>
+    <string name="change_password_page_title">Change Password</string>
+    <string name="change_password_page_subtitle">Change your password regularly help keeping your account safe from hacker. Keep it up!</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="reset_password">RESET PASSWORD</string>
+</resources>

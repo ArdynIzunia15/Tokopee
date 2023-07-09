@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1F1A1A</color>
+    <color name="white">#FFFBFE</color>
+    <color name="folly">#FF4C64</color>
+    <color name="jonquil">#FBC610</color>
+    <color name="persian_blue">#2941CA</color>
+    <color name="white_shade">#FAFAFE</color>
+    <color name="gray">#A0A0A0</color>
+    <color name="green">#08A414</color>
+    <color name="green_shade">#D9FFDC</color>
+    <color name="danger">#D33242</color>
+    <color name="persian_blue_shade">#324CE1</color>
+    <color name="dark_green">#003241</color>
+</resources>
